@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+/* puppy lover page */
+.puppies {
+  display: flex;
+  width: 960px; 
+  justify-content: space-between;
+  margin: 40px auto; 
+}
+
+img {
+  width: 100%;
+}
+
+.text {
+  background-color: orangered;
+  width: 310px;
+  height: 310px;
+}
+
+.text p {
+  font-size: 60px;
+  padding: 50px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.blueBG {
+  background-color: darkblue;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+footer.blueBG {
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
